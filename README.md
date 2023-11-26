@@ -28,6 +28,8 @@ A lightweight application that enables users to track various physical activites
 
 ## How to Run locally
 
+Note: must have a local version of git, npm, node installed
+
 ```
 git clone https://github.com/kriegernathan1/Fitness_tracking_app.git
 cd Fitness_tracking_app
